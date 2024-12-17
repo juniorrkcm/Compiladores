@@ -1,0 +1,9 @@
+com\mycompany\simbolos\Simbolos.class
+com\mycompany\simbolos\Num.class
+com\mycompany\simbolos\Parser.class
+com\mycompany\simbolos\SyntaxError.class
+com\mycompany\simbolos\SymTable.class
+com\mycompany\simbolos\Lexer.class
+com\mycompany\simbolos\Symbol.class
+com\mycompany\simbolos\Id.class
+com\mycompany\simbolos\Token.class
